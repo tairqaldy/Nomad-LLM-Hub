@@ -22,7 +22,7 @@ A lightweight SaaS interface to interact with multiple LLMs (ChatGPT, DeepSeek, 
 ## 💻 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nomad-llm-hub.git
+git clone https://github.com/tairqaldy/nomad-llm-hub.git
 cd nomad-llm-hub
 npm install
 cp .env.example .env.local  # ← create your own keys
